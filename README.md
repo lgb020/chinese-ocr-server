@@ -4,6 +4,7 @@
 
 识别部分：
 运行 chinese_ocr 目录下setup.sh文件安装识别所需环境（前提有Python 2.X）
+
 注：GPU条件下直接运行即可；CPU条件下须注释setup.sh文件中GPU相关操作，解开CPU相关操作再运行。
 
 服务部分：
